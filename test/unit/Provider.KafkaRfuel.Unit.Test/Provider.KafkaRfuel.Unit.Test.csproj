@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\src\KafkaRfuel.Provider\Provider.KafkaRfuel.csproj" />
+  </ItemGroup>
+</Project>

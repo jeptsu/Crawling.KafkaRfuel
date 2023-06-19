@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\src\KafkaRfuel.Core\Crawling.KafkaRfuel.Core.csproj" />
+    <ProjectReference Include="..\..\..\src\KafkaRfuel.Crawling\Crawling.KafkaRfuel.csproj" />
+    <ProjectReference Include="..\..\..\src\KafkaRfuel.Infrastructure\Crawling.KafkaRfuel.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>

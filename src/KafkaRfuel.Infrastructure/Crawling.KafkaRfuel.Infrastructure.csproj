@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="Confluent.Kafka"  />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KafkaRfuel.Core\Crawling.KafkaRfuel.Core.csproj" />
+  </ItemGroup>
+</Project>
